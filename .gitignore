@@ -1,0 +1,9 @@
+#enviorment
+venv/
+
+#Utility
+
+Utility/
+
+#idea
+.idea/
